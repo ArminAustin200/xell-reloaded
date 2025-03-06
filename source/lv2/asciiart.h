@@ -12,4 +12,4 @@ static char* asciiart = "\n"
                                                                            
 
 static char* asciitail =
-	"              For support visit: www.x360warehouse.com -Thanks for choosing us!\n\n";
+	"              For support visit: www.x360warehouse.com - Thanks for choosing us!\n\n";
