@@ -10,4 +10,4 @@ static char* asciiart = "\n"
 
   
 static char* asciitail =
-	"              Free60.org XeLL RELOADED - Xenon Linux Loader\n\n";
+	"              For Support Visit: www.x360Warehouse.com - Thanks for choosing us! :)\n\n";
